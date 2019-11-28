@@ -1,0 +1,56 @@
+body{
+	 background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#abc3b3, black); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#abc3b3, black); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#abc3b3, black); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#abc3b3, black);
+	font-family:'Work Sans', sans-serif;
+	font-weight: 300;
+}
+#top{
+	width:100%;
+	height:auto;
+}
+ul.nav a:hover {
+	color:orange !important;
+	background-color:#000!important;
+}
+.kontakt {
+	
+	height:100px!important;
+	margin:5px;
+	background-color:#aeaeae!important;
+	
+}
+h1,h2,h3,h4,h5,h6{
+font-family:'Work Sans', sans-serif;
+font-weight: 300;
+}
+p{
+font-family:'Work Sans', sans-serif;
+font-weight: 300;
+}
+.vazno{
+font-family:'Work Sans', sans-serif;
+font-weight: 600;
+}
+#slika{margin-top:40px;}
+
+.hadis {
+	font-family:'Work Sans', sans-serif;
+	font-weight: 400;
+}
+
+.navbar{
+	margin-bottom: 0!important;
+}
+
+.margin-bottom{
+	margin-bottom: 20px;
+}
+.panel, .thumbnail{
+	border-radius:0px!important;
+}
+.center{
+	padding: 15px; 
+}
